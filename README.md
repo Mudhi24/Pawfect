@@ -6,4 +6,4 @@ Where our site offers many options of animals such as birds, fish, dogs, cats an
 In the near future, we aspire to add many other services, such as taking care of abandoned pets until you find people to adopt them, as well as selling pet supplies.
 
 #We used many techniques to build this website such as: html,css, JS, bootstrap and mongoDB.
-
+<img scr="website.png" alt="ower website pic">
