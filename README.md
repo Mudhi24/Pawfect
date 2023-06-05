@@ -5,6 +5,10 @@ Where our site offers many options of animals such as birds, fish, dogs, cats an
 
 In the near future, we aspire to add many other services, such as taking care of abandoned pets until you find people to adopt them, as well as selling pet supplies.
 ## Techniques
-html,css, JS, bootstrap and mongoDB.
+html, css, JS, bootstrap and mongoDB.
+
+## Flow diagram
+<img src="https://github.com/Mudhi24/Pawfect/blob/main/websatedraw.png">
+
 ## Our website
 <img src="https://github.com/Mudhi24/Pawfect/blob/main/website.png">
